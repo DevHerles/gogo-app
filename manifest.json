@@ -1,0 +1,4 @@
+"permissions": [
+   "http://localhost:3001/*",
+   "https://example.com/*"
+]
